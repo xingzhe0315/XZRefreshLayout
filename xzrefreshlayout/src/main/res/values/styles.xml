@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="XZRefreshLayout">
+        <attr name="canRefresh" format="boolean"/>
+        <attr name="canLoadMore" format="boolean"/>
+        <attr name="autoLoad" format="boolean"/>
+    </declare-styleable>
+</resources>
